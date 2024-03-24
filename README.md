@@ -1,4 +1,3 @@
-Hola capos soy WolfStudio y estoy trabajando en Sonic Onlight Relighted
 
 El proyecto Sonic Onlight es un fangame inspirado en la franquicia Sonic the Hedgehog, actualmente en desarrollo por un equipo conformado por WolfStudio y Flowy_Flower. La fecha prevista para su lanzamiento es el 3 de diciembre de 2024. Este fangame está siendo creado con un enfoque en la revitalización de la experiencia clásica de Sonic, presentando nuevos sprites y niveles diseñados desde cero para ofrecer una experiencia fresca y emocionante para los jugadores.
 
